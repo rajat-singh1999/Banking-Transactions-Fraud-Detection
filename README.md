@@ -2,6 +2,8 @@
 
 This repository contains code and resources for a machine learning project focused on fraud detection in banking transactions. The primary model used for prediction is the Random Forest Classifier. The project addresses a classification problem with the goal of identifying fraudulent transactions within a banking dataset.
 
+Dataset Link: https://drive.google.com/file/d/1LjguPiGQaH_1vzn1XvXfk2nls1TFr8bZ/view?usp=sharing
+
 ## Data Details
 
 The dataset used for this project includes various features that provide insights into banking transactions. Here are the key features:
